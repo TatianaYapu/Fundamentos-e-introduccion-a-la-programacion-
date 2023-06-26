@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejemplo
+comment1.params=valor
+comment1.target=Ejemplo(int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\r\n
+comment2.params=
+comment2.target=int\ sampleMethod()
+comment2.text=\r\n\ Metodo,algo\ que\ saben\ hacer\ los\ objetos\ de\ esta\ clase\r\n
+numComments=3

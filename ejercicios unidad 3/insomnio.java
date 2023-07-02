@@ -1,6 +1,6 @@
 
 
-public class insomnio{
+public class Insomnio{
     public int calcularTiempo(){
         int horaDurmio=2;
         int minDurmio=45;
